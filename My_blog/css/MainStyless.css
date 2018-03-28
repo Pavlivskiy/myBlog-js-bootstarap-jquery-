@@ -1,0 +1,224 @@
+body {
+	/*background-image: url(image/fon.jpg);*/
+	width: 100%;
+	height: 100%;
+	background-color: #ffffff;
+	
+}
+nav div div button span {
+	background-color: #ffffff;
+}
+nav div div button {
+	margin-right: 10px;
+	width: 40px;
+	margin-top: 10px;
+	height: 30px;
+}
+.navbar-fixed-top {
+	position: fixed;
+	font-family: Andale Mono, monospace !important;
+	font-style: italic !important;
+}
+.img-size {
+	margin: auto;
+}
+.img-size1 {
+	margin: auto;
+	height: 300px;
+	width: 300px;
+}
+.font-family {
+	font-family: Andale Mono, monospace !important;
+}
+.size-avatar {
+	width: 100px;
+}
+.size-text {
+	font-size: 3.8em;
+}
+.center-align {
+	text-align: center;
+}
+.row {
+	margin-bottom: 20px;
+}
+.hr-color {
+	color: black;
+	height: 1px;
+	background-color: black;
+}
+.social {
+	width: 150px;
+	margin: 10px;
+	margin-top: 10px;
+}
+.background-color-link {
+	background-color: aquamarine;
+	text-align: center;
+	padding-bottom: 100px;
+	border-radius: 10px;
+	border-color: brown;
+	border: 2px;
+	border-style: solid;
+}
+.main-image-container {
+	padding: 0 20%;
+}
+.background-contact {
+	background-color: #365686;
+	width: 100%;
+	right: 0;
+}
+ul li a {
+	color: white !important;
+	font-family: Comic Sans;
+	font-size: 1.6em;
+}
+ul li a:hover {
+	background-color:#365686 !important;
+	opacity: 0.4;
+}
+div {
+	display: block;
+}
+#Brand {
+	font-family: Impact;
+	font-size: 1.6em;
+	color: #ffffff;
+}
+body button {
+	width: 100px;
+	height: 60px;
+}
+.fullscreen-image {
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-top: 0px;
+    z-index: -1;
+}
+#Name {
+	color: #ffffff !important;
+	font-family: Andale Mono, monospace !important;
+	font-style: italic !important;
+	text-align: center;
+}
+.main-title {
+	font-family: Courier New, Courier, monospace;
+	font-style: italic !important;
+	font-weight: 900 !important;
+	margin: 0;
+	text-align: center;
+}
+.padding-center {
+/* 	text-align: center; */
+padding: 50px;
+}
+.turum-font {
+	font-family: 'Turum';
+}
+.turum-bold-font{
+	font-family: 'Turum Bold';
+}
+.font-size-glyphicon {
+	font-size: 25px;
+}
+.white-text {
+	color: #ffffff !important;
+}
+.white {
+	background-color: #ffffff !important;
+}
+footer {
+	display: block;
+}
+.footer-construction {
+	padding: 20px 0;
+}
+#right {
+    background-color: #abc;
+    width: 90px;
+    height: 90px;
+	margin: 5px;
+}
+.technologies {
+	text-align: center;
+}
+#Up {
+ 	position: fixed;
+ 	right: 15px;
+ 	bottom: 10px;
+ 	opacity: 0.8;
+ 	color: black !important;
+	display: none;
+	opacity: 0.6; 
+	
+}
+#GMail {
+	position: absolute;
+	left: 10px;
+	bottom: 50%;
+	background-color: white;
+	opacity: 0.4;
+	width: 100px;
+}
+.wr {
+	clear: left;
+}
+.btn-width {
+	width: 50%;
+	margin-top: 2%;
+}
+#ErrorName {
+	color: red;
+	font-weight: bold;
+}
+#ErrorEmail {
+	color: red;
+	font-weight: bold;
+}
+.width-input {
+	width: 50%;
+	margin: auto;
+}
+.width-textarea {
+	width: 75.5%;
+	margin-top: 2%;
+	resize: none; 
+}
+a i {
+	color: #ffffff;
+}
+.bg {
+	background: url('USFbNpC.jpg') repeat !important;
+	position: fixed;
+	width: 100%;
+	height: 300%;
+	top:0;
+	left:0;
+	z-index: -1;
+  }
+  section {
+	color: #fff;
+	font-family: arial;
+	width: 500px;
+	margin: auto;
+	line-height: 20px;
+	font-size: 16px;
+  }
+  .bl1 {
+	opacity: 0;
+  }
